@@ -1,6 +1,21 @@
 {
   "events": [
     {
+      "id": 5928777,
+      "user": {
+        "id": "lollyGag",
+        "name": "Paulina Z."
+      },
+      "category": "space travel",
+      "organizer": "Polly",
+      "title": "Asteroids & Asses",
+      "description": "Shake yo' booty in our weightless jam room!!",
+      "location": "ISS-X7e",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
       "id": 5928101,
       "user": {
         "id": "abc123",
